@@ -38,8 +38,10 @@ Experiment records	Keep configurations, seeds, learning curves, and notes togeth
 policy gradients, returns versus reward-to-go, baselines, and the actor-critic update pipeline. Later algorithms will be identified as implementations only after their code and results are available.
 Notes  
 
-# I am adding handwritten notes alongside the code. The first few pages of the handwritten notes are blank; please keep scrolling to reach the actual course material.  
-#笔记说明：手写笔记前几页留空，请耐心往下翻，正式课程内容在后面。  
+# I am adding handwritten notes alongside the code.
+The first few pages of the handwritten notes are blank; please keep scrolling to reach the actual course material.  
+# 笔记说明：
+手写笔记前几页留空，请耐心往下翻，正式课程内容在后面。  
 
 The notes file will be linked here after it is added to the repository. Lecture progress and assignment completion are tracked separately: studying a topic does not imply that its code is already implemented or tested here.
 Repository updates  
