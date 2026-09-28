@@ -1,0 +1,7 @@
+{
+  "part1_policy_limit": 128,
+  "part1_policy_prompt_count": 128,
+  "part2_policy_limit": 128,
+  "part2_policy_prompt_count": 128,
+  "reward_pref_count": 256
+}

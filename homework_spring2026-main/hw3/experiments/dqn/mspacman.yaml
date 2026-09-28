@@ -1,0 +1,12 @@
+base_config: dqn_atari
+env_name: MsPacmanNoFrameskip-v4
+exp_name: dqn
+learning_rate: 0.0001
+adam_eps: 0.0001
+total_steps: 1000000
+discount: 0.99
+target_update_period: 2000
+clip_grad_norm: 10.0
+use_double_q: true
+learning_starts: 20000
+batch_size: 32

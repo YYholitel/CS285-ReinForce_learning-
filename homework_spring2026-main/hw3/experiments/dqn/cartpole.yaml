@@ -1,0 +1,12 @@
+base_config: dqn_basic
+env_name: CartPole-v1
+exp_name: dqn
+hidden_size: 64
+num_layers: 2
+learning_rate: 0.0005
+total_steps: 100000
+discount: 0.99
+target_update_period: 1000
+use_double_q: false
+learning_starts: 1000
+batch_size: 128  

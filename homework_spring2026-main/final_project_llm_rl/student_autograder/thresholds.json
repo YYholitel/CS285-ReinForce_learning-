@@ -1,0 +1,19 @@
+{
+  "judge_model": "gpt-5.4",
+  "reasoning_effort": "none",
+  "part1_policy_prompt_limit": 128,
+  "part2_policy_prompt_limit": 128,
+  "part1": {
+    "reward_model_pair_accuracy": 0.74,
+    "dpo": 0.65,
+    "ipo": 0.60,
+    "aot": 0.65,
+    "grpo": 0.60,
+    "drgrpo": 0.60,
+    "gspo": 0.60
+  },
+  "part2": {
+    "offline_policy_win_rate": 0.82,
+    "online_policy_win_rate": 0.70
+  }
+}

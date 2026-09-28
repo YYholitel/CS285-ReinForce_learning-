@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.git/
+.venv/
+*.egg-info/
+wandb/
+.vscode/
+.idea/
+.DS_Store
+
+# Data artifacts
+/data/
+checkpoints/
+videos/
+*.zip
+exp/
+
+# Modal logs/artifacts
+modal_volume/
